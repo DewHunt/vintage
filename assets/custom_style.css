@@ -1,0 +1,103 @@
+/*body {
+	font-family: sans-serif;
+}
+
+.sticky-page-title {
+	position: fixed; z-index: 50;
+	width: 1127px;
+	width: 1141px;
+	margin-top: 0px;
+	margin-left: -24px;
+}*/
+
+/*table.dataTable thead .sorting, table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc, table.dataTable thead .sorting_asc_disabled, table.dataTable thead .sorting_desc_disabled {
+	background: #00c292;
+	font-weight: bold;
+	padding: 5px;
+	font-size: 11px;
+}
+
+table.table-bordered.dataTable tbody th, table.table-bordered.dataTable tbody td {
+	border-bottom-width: 0;
+	padding: 5px;
+	vertical-align: middle;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+.sidebar-nav ul li a {
+	font-size: 12px;
+	color: #607d8b;
+}
+
+.sidebar-nav>ul>li>a i {
+	width: 18px;
+}
+
+.sidebar-nav ul li ul li a {
+	padding: 7px 7px 7px 7px;
+}
+
+.switchery {
+	height: 20px !important;
+	width: 40px !important;
+}
+
+.switchery > small {
+	height: 20px !important;
+	width: 20px !important;
+}
+
+.custom-card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.09);
+    border-bottom: 0px solid transparent;
+}
+
+.custom-card-title {
+    position: relative;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-bottom: 0;
+    height: 45px;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+
+.custom-card-footer {
+    padding: 0.75rem 1.25rem;
+    background-color: rgba(0, 0, 0, 0.09);
+    border-top: 0px solid transparent;
+}*/
+
+.select2-container {
+	width: 100% !important;
+}
+
+.select2-container--default .select2-selection--single {
+    border-color: #ccc;
+    height: 33px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 33px;
+}
+
+.chosen-single {
+    height: 37px !important;
+    line-height: 37px !important;
+    /*padding: 4px 6px !important;*/
+}
+
+.form-control {
+	padding: 6px 5px;
+}
+
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid #ccc;
+}
+
+/*.form-control {
+	border: 1px solid #0c000073;
+}*/
